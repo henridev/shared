@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5", // Or whatever you want
+        "module": "es2015", // Or whatever you want
+        "declaration": true, // generates declaration file for both front and backend
+        "declarationMap": true, // Enables editor features like “Go to Definition” and Rename to transparently navigate and edit code across project boundaries in supported editors
+        "outDir": "./lib",
+        // "composite": true,
+		"strict": true
+    },
+	"include": ["src"],
+	"exclude": ["node_modules", "**/__tests__/*"]
+}
