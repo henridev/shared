@@ -1,1 +1,1 @@
-export * from "./FriendStatus"
+export * from './FriendStatus'

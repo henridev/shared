@@ -1,1 +1,1 @@
-export * from "./IFriendshipDTO"
+export * from './IFriendshipDTO'

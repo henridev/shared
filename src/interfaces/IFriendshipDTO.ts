@@ -1,4 +1,4 @@
-import { FriendStatus } from "../typings/FriendStatus";
+import { FriendStatus } from '../typings/FriendStatus'
 
 export interface IFriendshipDTO {
 	friendId: string
